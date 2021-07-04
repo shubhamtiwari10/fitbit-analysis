@@ -14,3 +14,6 @@
 
  
 ** First, [register your app](https://dev.fitbit.com/apps/new) and set up an API. See this [helpful tutorial](http://pdwhomeautomation.blogspot.com/2015/03/using-fitbit-api-on-raspberry-pi-with.html) for additional information! Then, aquire your data. I have provided [templates](https://github.com/JessieRayeBauer/Fitbit/blob/master/Pull_fitbit_data.md) in Python do so. 
+## Main question i want to know answers about
+1. Am I more active on days after I get more sleep?
+2. Do I sleep need more sleep the night after I don't get a lot of sleep? In other words, am I building up a sleep deficit?
